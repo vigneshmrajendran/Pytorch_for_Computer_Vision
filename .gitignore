@@ -3,3 +3,4 @@ data/
 runs/
 .ipynb_checkpoints/
 old_files/
+__pycache__/
